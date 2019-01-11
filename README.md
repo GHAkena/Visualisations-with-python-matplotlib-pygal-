@@ -1,2 +1,2 @@
 # Visualisations-with-python-matplotlib-pygal-
-This is a brief tap on the concepts of visualisations with python libraries pygal and matplotlib. Deals with population plots worldwide
+academic/geopolitical project dealing with world map plots using mainly the pygal.maps.world updated module, and styling.
